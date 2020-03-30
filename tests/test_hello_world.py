@@ -1,6 +1,6 @@
 #!/usr/bin/python3.6
 
-import hello_world
+from hello_world import hello_world
 import unittest
 from pprint import pprint
 
