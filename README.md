@@ -1,7 +1,7 @@
 # Setting up continuous integration with Jenkins for a Python 3 Flask application with Docker
 
 ## Disclaimer
-This repo has mostly been adapted from the following Medium article: [Basic CI/CD for Python projects with Docker and Jenkins](https://medium.com/faun/basic-ci-cd-for-python-projects-with-docker-and-jenkins-38eeb547fb28)
+This repo has mostly been adapted from the following Medium article: [Basic CI/CD for Python projects with Docker and Jenkins](https://medium.com/faun/basic-ci-cd-for-python-projects-with-docker-and-jenkins-38eeb547fb28) and fixed using the work-around posted in the Medium article: [Jenkins+Python 3.6 Alpine Docker Image](https://medium.com/@mirsaeedi/jenkins-python-3-6-alpine-docker-image-8c22bd025533).
 
 The purpose for this repo is a reference/guide to the steps I took when following the article to in getting a successful build on Jenkins with Python 3.
 
