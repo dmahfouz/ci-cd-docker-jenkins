@@ -4,3 +4,6 @@ venv/
 # Editor files/configs
 .vscode
 
+# Init.py artifacts
+*/__pycache__
+tests/__pycache__
