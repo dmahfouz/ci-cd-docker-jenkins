@@ -7,3 +7,4 @@ venv/
 # Init.py artifacts
 */__pycache__
 tests/__pycache__
+__pycache__
