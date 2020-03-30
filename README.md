@@ -37,7 +37,7 @@ The purpose for this repo is a reference/guide to the steps I took when followin
 >WORKDIR /my_app
 >COPY requirements.txt /my_app
 >RUN pwd
->RUN ls -la```
+>RUN ls -la
 
 
 - Build docker image using the following command:
