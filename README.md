@@ -17,7 +17,7 @@ The purpose for this repo is a reference/guide to the steps I took when followin
 - Create a folder with a name of your choice, I chose to create a folder called `./ci-cd-docker-jenkins/`, and added a Dockerfile with the following contents:
 
 > `Dockerfile`
-> ```docker
+> ```dockerfile
 >FROM jenkins/jenkins:lts-alpine
 >USER root
 >
